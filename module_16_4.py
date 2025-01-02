@@ -1,4 +1,3 @@
-from email import message
 from fastapi import FastAPI, HTTPException, Path
 from typing import Annotated
 from pydantic import BaseModel
